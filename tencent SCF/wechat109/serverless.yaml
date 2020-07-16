@@ -1,0 +1,24 @@
+app: wechat109
+component: scf
+inputs:
+  cls:
+    logsetId: ''
+    topicId: ''
+  description: helloworld 空白模板函数
+  enableRoleAuth: true
+  events: []
+  handler: index.main_handler
+  memorySize: 2688
+  name: wechat109
+  namespace: default
+  region: ap-shanghai
+  runtime: Python3.6
+  src: ./src
+  timeout: 3
+  vpcConfig:
+    subnetId: ''
+    vpcId: ''
+name: ap-shanghai_default_wechat109
+org: '1302540728'
+stage: dev
+# For more information: https://github.com/serverless-components/tencent-scf/blob/v2/doc/configure.md
