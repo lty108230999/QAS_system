@@ -1,0 +1,1 @@
+使用git上传至SAE的远程仓库，Procfile规定了程序执行的方式，requriement中规定了所需依赖库

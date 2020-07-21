@@ -1,0 +1,4 @@
+nasMappings:
+  aliyun2:
+    - localNasDir: .fun\python
+      remoteNasDir: /mnt/auto/python

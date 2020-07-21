@@ -1,0 +1,3 @@
+model ：cut.model
+依赖包：gensim,scipy,numpy,jieba,wechatpy等
+以上内容需要自行安装/准备后以各平台要求的方式使用
