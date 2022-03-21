@@ -72,7 +72,7 @@ zope.interface==4.6.0
 pillow
 falcon==2.0.0
 wechatpy==1.8.13
-waitress==1.4.4
+waitress==2.1.1
 gensim==3.8.1
 xlrd==1.2.0
 scipy==1.4.1
